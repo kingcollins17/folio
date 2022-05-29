@@ -1,0 +1,14 @@
+node_modules
+# Django #
+*.log
+*.pot
+*.pyc
+__pycache__
+db.sqlite3
+media
+
+# Backup files # 
+*.bak 
+src
+webpack.config.js
+.babelrc
